@@ -2,6 +2,7 @@
 # Kenneth Tumin
 
 ![imagen](Imagen/parical2.png)
+![imagen](Imagen/capturageneral.png)
 
 ## Descripción
 a. El botón al hacer click el botón muestra un mensaje al usurio.
